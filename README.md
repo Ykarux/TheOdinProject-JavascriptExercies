@@ -1,0 +1,2 @@
+# TheOdinProject-JavascriptExercies
+TheOdinProject javascript exercies
